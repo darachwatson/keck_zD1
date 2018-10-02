@@ -1,0 +1,4 @@
+pdflatex sidebyside
+pdfcrop sidebyside.pdf
+cp sidebyside-crop.pdf NIR.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dNOPAUSE -dQUIET -dBATCH -sOutputFile=NIR_14.pdf NIR.pdf

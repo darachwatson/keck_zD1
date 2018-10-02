@@ -1,0 +1,97 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Ba{\~n}ados} {et~al.}(2018){Ba{\~n}ados}, {Venemans},
+  {Mazzucchelli}, {Farina}, {Walter}, {Wang}, {Decarli}, {Stern}, {Fan},
+  {Davies}, {Hennawi}, {Simcoe}, {Turner}, {Rix}, {Yang}, {Kelson}, {Rudie}, \&
+  {Winters}}]{2018Natur.553..473B}
+{Ba{\~n}ados}, E., {Venemans}, B.~P., {Mazzucchelli}, C., {et~al.} 2018, \nat,
+  553, 473
+
+\bibitem[{{Bradley} {et~al.}(2008){Bradley}, {Bouwens}, {Ford}, {Illingworth},
+  {Jee}, {Ben{\'{\i}}tez}, {Broadhurst}, {Franx}, {Frye}, {Infante}, {Motta},
+  {Rosati}, {White}, \& {Zheng}}]{2008ApJ...678..647B}
+{Bradley}, L.~D., {Bouwens}, R.~J., {Ford}, H.~C., {et~al.} 2008, \apj, 678,
+  647
+
+\bibitem[{{De Looze} {et~al.}(2011){De Looze}, {Baes}, {Bendo}, {Cortese}, \&
+  {Fritz}}]{2011MNRAS.416.2712D}
+{De Looze}, I., {Baes}, M., {Bendo}, G.~J., {Cortese}, L., \& {Fritz}, J. 2011,
+  \mnras, 416, 2712
+
+\bibitem[{{Fan} {et~al.}(2006){Fan}, {Strauss}, {Becker}, {White}, {Gunn},
+  {Knapp}, {Richards}, {Schneider}, {Brinkmann}, \&
+  {Fukugita}}]{2006AJ....132..117F}
+{Fan}, X., {Strauss}, M.~A., {Becker}, R.~H., {et~al.} 2006, \aj, 132, 117
+
+\bibitem[{{Knudsen} {et~al.}(2017){Knudsen}, {Watson}, {Frayer}, {Christensen},
+  {Gallazzi}, {Micha{\l}owski}, {Richard}, \& {Zavala}}]{2017MNRAS.466..138K}
+{Knudsen}, K.~K., {Watson}, D., {Frayer}, D., {et~al.} 2017, \mnras, 466, 138
+
+\bibitem[{{Miralda-Escud{\'e}}(1998)}]{1998ApJ...501...15M}
+{Miralda-Escud{\'e}}, J. 1998, \apj, 501, 15
+
+\bibitem[{{Mortlock} {et~al.}(2011){Mortlock}, {Warren}, {Venemans}, {Patel},
+  {Hewett}, {McMahon}, {Simpson}, {Theuns}, {Gonz{\'a}les-Solares}, {Adamson},
+  {Dye}, {Hambly}, {Hirst}, {Irwin}, {Kuiper}, {Lawrence}, \&
+  {R{\"o}ttgering}}]{2011Natur.474..616M}
+{Mortlock}, D.~J., {Warren}, S.~J., {Venemans}, B.~P., {et~al.} 2011, \nat,
+  474, 616
+
+\bibitem[{{Planck Collaboration} {et~al.}(2016){Planck Collaboration}, {Adam},
+  {Aghanim}, {Ashdown}, {Aumont}, {Baccigalupi}, {Ballardini}, {Banday},
+  {Barreiro}, {Bartolo}, {Basak}, {Battye}, {Benabed}, {Bernard}, {Bersanelli},
+  {Bielewicz}, {Bock}, {Bonaldi}, {Bonavera}, {Bond}, {Borrill}, {Bouchet},
+  {Boulanger}, {Bucher}, {Burigana}, {Calabrese}, {Cardoso}, {Carron},
+  {Chiang}, {Colombo}, {Combet}, {Comis}, {Couchot}, {Coulais}, {Crill},
+  {Curto}, {Cuttaia}, {Davis}, {de Bernardis}, {de Rosa}, {de Zotti},
+  {Delabrouille}, {Di Valentino}, {Dickinson}, {Diego}, {Dor{\'e}}, {Douspis},
+  {Ducout}, {Dupac}, {Elsner}, {En{\ss}lin}, {Eriksen}, {Falgarone}, {Fantaye},
+  {Finelli}, {Forastieri}, {Frailis}, {Fraisse}, {Franceschi}, {Frolov},
+  {Galeotta}, {Galli}, {Ganga}, {G{\'e}nova-Santos}, {Gerbino}, {Ghosh},
+  {Gonz{\'a}lez-Nuevo}, {G{\'o}rski}, {Gruppuso}, {Gudmundsson}, {Hansen},
+  {Helou}, {Henrot-Versill{\'e}}, {Herranz}, {Hivon}, {Huang}, {Ili{\'c}},
+  {Jaffe}, {Jones}, {Keih{\"a}nen}, {Keskitalo}, {Kisner}, {Knox},
+  {Krachmalnicoff}, {Kunz}, {Kurki-Suonio}, {Lagache}, {L{\"a}hteenm{\"a}ki},
+  {Lamarre}, {Langer}, {Lasenby}, {Lattanzi}, {Lawrence}, {Le Jeune},
+  {Levrier}, {Lewis}, {Liguori}, {Lilje}, {L{\'o}pez-Caniego}, {Ma},
+  {Mac{\'{\i}}as-P{\'e}rez}, {Maggio}, {Mangilli}, {Maris}, {Martin},
+  {Mart{\'{\i}}nez-Gonz{\'a}lez}, {Matarrese}, {Mauri}, {McEwen}, {Meinhold},
+  {Melchiorri}, {Mennella}, {Migliaccio}, {Miville-Desch{\^e}nes}, {Molinari},
+  {Moneti}, {Montier}, {Morgante}, {Moss}, {Naselsky}, {Natoli}, {Oxborrow},
+  {Pagano}, {Paoletti}, {Partridge}, {Patanchon}, {Patrizii}, {Perdereau},
+  {Perotto}, {Pettorino}, {Piacentini}, {Plaszczynski}, {Polastri}, {Polenta},
+  {Puget}, {Rachen}, {Racine}, {Reinecke}, {Remazeilles}, {Renzi}, {Rocha},
+  {Rossetti}, {Roudier}, {Rubi{\~n}o-Mart{\'{\i}}n}, {Ruiz-Granados},
+  {Salvati}, {Sandri}, {Savelainen}, {Scott}, {Sirri}, {Sunyaev}, {Suur-Uski},
+  {Tauber}, {Tenti}, {Toffolatti}, {Tomasi}, {Tristram}, {Trombetti},
+  {Valiviita}, {Van Tent}, {Vielva}, {Villa}, {Vittorio}, {Wandelt}, {Wehus},
+  {White}, {Zacchei}, \& {Zonca}}]{2016A&A...596A.108P}
+{Planck Collaboration}, {Adam}, R., {Aghanim}, N., {et~al.} 2016, \aap, 596,
+  A108
+
+\bibitem[{{Stacey} {et~al.}(2010){Stacey}, {Hailey-Dunsheath}, {Ferkinhoff},
+  {Nikola}, {Parshley}, {Benford}, {Staguhn}, \&
+  {Fiolet}}]{2010ApJ...724..957S}
+{Stacey}, G.~J., {Hailey-Dunsheath}, S., {Ferkinhoff}, C., {et~al.} 2010, \apj,
+  724, 957
+
+\bibitem[{{Tanvir} {et~al.}(2009){Tanvir}, {Fox}, {Levan}, {Berger},
+  {Wiersema}, {Fynbo}, {Cucchiara}, {Kr{\"u}hler}, {Gehrels}, {Bloom},
+  {Greiner}, {Evans}, {Rol}, {Olivares}, {Hjorth}, {Jakobsson}, {Farihi},
+  {Willingale}, {Starling}, {Cenko}, {Perley}, {Maund}, {Duke}, {Wijers},
+  {Adamson}, {Allan}, {Bremer}, {Burrows}, {Castro-Tirado}, {Cavanagh}, {de
+  Ugarte Postigo}, {Dopita}, {Fatkhullin}, {Fruchter}, {Foley}, {Gorosabel},
+  {Kennea}, {Kerr}, {Klose}, {Krimm}, {Komarova}, {Kulkarni}, {Moskvitin},
+  {Mundell}, {Naylor}, {Page}, {Penprase}, {Perri}, {Podsiadlowski}, {Roth},
+  {Rutledge}, {Sakamoto}, {Schady}, {Schmidt}, {Soderberg}, {Sollerman},
+  {Stephens}, {Stratta}, {Ukwatta}, {Watson}, {Westra}, {Wold}, \&
+  {Wolf}}]{2009Natur.461.1254T}
+{Tanvir}, N.~R., {Fox}, D.~B., {Levan}, A.~J., {et~al.} 2009, \nat, 461, 1254
+
+\bibitem[{{Watson} {et~al.}(2015){Watson}, {Christensen}, {Knudsen}, {Richard},
+  {Gallazzi}, \& {Micha{\l}owski}}]{watson15}
+{Watson}, D., {Christensen}, L., {Knudsen}, K.~K., {et~al.} 2015, \nat, 519,
+  327
+
+\end{thebibliography}
